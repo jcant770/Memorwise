@@ -14,7 +14,7 @@ This is an a note taking application using Express.js. When the user opens the a
 
 ## Links
  * [GitHub repo](https://github.com/jcant770/Memorwise)
- * [Deployed Heroku]()
+ * [Deployed Heroku](https://git.heroku.com/memorwise.git)
 
 ## Questions
  [email](cantoj515@gmail.com)
